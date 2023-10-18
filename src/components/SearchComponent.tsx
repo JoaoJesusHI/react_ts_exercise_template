@@ -1,5 +1,6 @@
 import { useEffect, useState, useCallback } from 'react'
 import { Button,  Input, Grid, Message, Icon  } from 'semantic-ui-react'
+import UsersList from './UsersList'
 
 export default function SearchComponent() {
 
